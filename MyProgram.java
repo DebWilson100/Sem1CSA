@@ -2,7 +2,7 @@ public class MyProgram
 {
     public static void main(String[] args)
     {
-        int intTempF = 70;
+        int intTempF = 73;
         
         /* This will evaluate incorrectly and print 0.0. 
          * Even though convert1 is a double, every
